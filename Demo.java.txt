@@ -1,4 +1,9 @@
 public class Demo{
+	
+  //jira-101
+  public void m1(){
+	sopln();
+  }
   int i=10;
 
   public void m2(){
