@@ -5,11 +5,12 @@ public class Demo{
 	sopln();
   }
   int i=10;
-
+  string s='bitu';
   public void m2(){
 	
   }
 
   public Demo(){
+    int j=20;
   }
 }
