@@ -5,6 +5,7 @@ public class Demo{
 	sopln();
   }
   int i=10;
+  int j=20;
 
   public void m2(){
 	
@@ -13,3 +14,4 @@ public class Demo{
   public Demo(){
   }
 }
+
