@@ -11,5 +11,7 @@ public class Demo{
   }
 
   public Demo(){
+	int i=10;
   }
 }
+
