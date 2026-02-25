@@ -7,6 +7,9 @@ public class Demo{
   int i=10;
 
   public void m2(){
-	sopln();
+	
+  }
+
+  public Demo(){
   }
 }
